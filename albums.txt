@@ -1,0 +1,505 @@
+#Données tirées et adaptées de : https://data.world/notgibs/rolling-stones-top-500-albums/workspace/project-summary?agentid=notgibs&datasetid=rolling-stones-top-500-albums
+
+#id|Annee|Titre_Album|Artiste|Evaluation|genres, etc.|sous-genres, etc.
+
+166|1982|Imperial Bedroom|Elvis Costello & The Attractions|2|Rock|Alternative Rock, New Wave
+159|1975|Alive!|KISS|3|Rock|Hard Rock, Glam
+438|1979|Boys Don't Cry|The Cure|2|Rock|New Wave, Post-Punk
+273|1966|Going to a Go-Go|Smokey Robinson & The Miracles|3|Funk / Soul|Soul
+439|1985|Live at the Harlem Square Club, 1963|Sam Cooke|3|Funk / Soul|Soul
+305|1998|Car Wheels on a Gravel Road|Lucinda Williams|3|Folk, World, Country|Country, Folk
+115|1967|The Who Sell Out|The Who|3|Rock|Psychedelic Rock, Mod
+207|1970|Abraxas|Santana|2|Rock, Latin|Fusion, Hard Rock, Psychedelic Rock
+418|1973|Band on the Run|Paul McCartney & Wings|3|Rock|Pop Rock
+461|1979|Metal Box|Public Image Ltd.|3|Electronic, Rock|Post-Punk, Dub, Avantgarde, Experimental
+177|1978|One Nation Under a Groove|Funkadelic|3|Funk / Soul|P.Funk
+32|1969|Let It Bleed|The Rolling Stones|3|Rock|Blues Rock, Hard Rock
+203|1987|Bad|Michael Jackson|2|Funk / Soul, Pop|Pop Rock, Ballad, Funk, Soul
+108|1971|Hunky Dory|David Bowie|2|Rock|Classic Rock, Glam
+23|1970|John Lennon/Plastic Ono Band|John Lennon / Plastic Ono Band|3|Rock|Pop Rock
+359|1972|Honky Chateau|Elton John|3|Rock|Pop Rock, Classic Rock
+317|1988|Surfer Rosa|Pixies|3|Rock|Alternative Rock
+292|1975|The Basement Tapes|Bob Dylan and the Band|3|Rock|Folk Rock, Country Rock, Classic Rock
+237|1965|My Generation|The Who|3|Rock|Mod
+379|1994|CrazySexyCool|TLC|3|Electronic, Hip Hop, Funk / Soul|RnB/Swing
+332|1982|Shoot Out the Lights|Richard & Linda Thompson|3|Rock, Folk, World, Country|Folk Rock
+102|1966|Fresh Cream|Cream|1|Rock, Blues|Blues Rock, Electric Blues
+306|1996|Odelay|Beck|2|Electronic, Hip Hop, Funk / Soul, Pop|Electro, Downtempo, Hip Hop, Disco, Afrobeat, Abstract
+140|1978|Parallel Lines|Blondie|3|Electronic, Rock|New Wave, Pop Rock, Punk, Disco
+459|1968|The Drifters' Golden Hits|The Drifters|3|Rock, Funk / Soul|Rhythm & Blues, Soul
+299|1994|Weezer (Blue Album)|Weezer|3|Rock|Alternative Rock, Emo
+398|1983|Eliminator|ZZ Top|3|Rock|Pop Rock
+416|1999|Mule Variations|Tom Waits|3|Electronic, Rock|Abstract, Art Rock
+330|1975|Tonight's the Night|Neil Young|2|Rock|Blues Rock, Folk Rock, Classic Rock
+288|1968|Anthem of the Sun|Grateful Dead|3|Rock|Psychedelic Rock
+394|1974|Good Old Boys|Randy Newman|3|Rock, Pop|Pop Rock, Vocal
+262|1969|Crosby, Stills & Nash|Crosby, Stills & Nash|1|Rock, Folk, World, Country|Folk Rock, Classic Rock
+116|1965|Out of Our Heads|The Rolling Stones|2|Rock|Blues Rock, Rock & Roll
+246|1966|Freak Out!|The Mothers of Invention|3|Electronic, Rock|Musique Concrete, Avantgarde, Symphonic Rock, Rhythm & Blues, Psychedelic Rock, Experimental, Parody
+112|1966|If You Can Believe Your Eyes and Ears|The Mamas and the Papas|2|Rock|Folk Rock, Pop Rock
+197|1983|Murmur|R.E.M.|3|Rock|Alternative Rock
+340|1981|Damaged|Black Flag|1|Rock|Hardcore, Punk
+252|2001|The Blueprint|Jay Z|3|Hip Hop
+383|1978|More Songs About Buildings and Food|Talking Heads|3|Rock|New Wave, Indie Rock
+125|1971|Pearl|Janis Joplin|2|Rock, Blues|Blues Rock
+29|1969|Led Zeppelin|Led Zeppelin|3|Rock|Blues Rock, Hard Rock
+4|1965|Highway 61 Revisited|Bob Dylan|2|Rock|Folk Rock, Blues Rock
+228|1987|Paid in Full|Eric B. & Rakim|3|Hip Hop
+236|1992|Mr. Excitement!|Jackie Wilson|3|Funk / Soul
+83|1967|Axis: Bold as Love|The Jimi Hendrix Experience|3|Rock|Psychedelic Rock, Electric Blues
+441|1977|Suicide|Suicide|1|Electronic, Rock|New Wave, Experimental
+185|1969|The Stooges|The Stooges|2|Rock|Garage Rock, Punk
+401|1999|Californication|Red Hot Chili Peppers|3|Rock|Alternative Rock, Funk Metal
+293|1968|White Light/White Heat|The Velvet Underground|3|Rock|Avantgarde, Experimental
+430|2007|Vampire Weekend|Vampire Weekend|1|Rock|Indie Rock
+87|1979|The Wall|Pink Floyd|3|Rock|Alternative Rock, Prog Rock
+280|2000|All That You Can't Leave Behind|U2|1|Rock|Pop Rock
+89|1969|Dusty in Memphis|Dusty Springfield|1|Rock, Funk / Soul|Pop Rock, Soul
+155|1980|Pretenders|Pretenders|2|Rock|Alternative Rock, New Wave
+464|1987|Hysteria|Def Leppard|1|Rock|Hard Rock, Arena Rock
+35|1972|The Rise and Fall of Ziggy Stardust and the Spiders From Mars|David Bowie|1|Rock|Classic Rock, Glam
+290|1973|Call Me|Al Green|2|Funk / Soul|Rhythm & Blues, Soul
+219|1986|Licensed to Ill|Beastie Boys|2|Hip Hop
+388|1985|The Indestructible Beat of Soweto|Various Artists|2|Funk / Soul, Folk, World, Country|African
+50|1957|Here's Little Richard|Little Richard|3|Rock, Blues|Rock & Roll, Rhythm & Blues
+309|1969|Willy and the Poor Boys|Creedence Clearwater Revival|3|Rock|Blues Rock, Rock & Roll, Classic Rock
+183|1975|Red Headed Stranger|Willie Nelson|3|Folk, World, Country|Country
+339|1974|The Heart of Saturday Night|Tom Waits|3|Jazz, Pop, Folk, World, Country|Contemporary Jazz, Spoken Word
+195|1966|Blues Breakers With Eric Clapton (The Beano Album)|John Mayall & The Bluesbreakers|3|Rock, Blues|Blues Rock, Electric Blues, Harmonica Blues
+138|1992|The Chronic|Dr. Dre|3|Hip Hop|Gangsta
+364|1971|L.A. Woman|The Doors|2|Rock|Blues Rock, Classic Rock
+132|1977|Saturday Night Fever: The Original Movie Sound Track|Various Artists|3|Electronic, Stage & Screen|Soundtrack, Disco
+253|1980|The River|Bruce Springsteen|3|Rock|Folk Rock, Pop Rock, Classic Rock
+44|1975|Horses|Patti Smith|2|Rock|Art Rock
+390|2003|Elephant|The White Stripes|3|Rock|Blues Rock, Garage Rock, Alternative Rock
+269|1985|Psychocandy|The Jesus and Mary Chain|3|Rock|Noise
+226|1982|Nebraska|Bruce Springsteen|2|Rock|Acoustic
+357|1967|Between the Buttons|The Rolling Stones|3|Rock|Blues Rock, Psychedelic Rock, Pop Rock
+468|1965|The Paul Butterfield Blues Band|The Paul Butterfield Blues Band|1|Rock, Blues|Blues Rock, Electric Blues, Chicago Blues, Modern Electric Blues, Harmonica Blues
+348|1960|Muddy Waters at Newport 1960|Muddy Waters|3|Rock, Blues|Blues Rock, Chicago Blues
+335|1994|Superunknown|Soundgarden|3|Rock|Alternative Rock
+167|1986|Master of Puppets|Metallica|2|Rock|Thrash, Speed Metal
+9|1966|Blonde on Blonde|Bob Dylan|1|Rock, Blues|Folk Rock, Rhythm & Blues
+363|1987|Substance 1987|New Order|3|Electronic|Synth-pop
+434|1972|#1 Record|Big Star|3|Rock|Power Pop
+446|1970|Back in the USA|MC5|3|Rock|Garage Rock, Rock & Roll
+445|1976|Fly Like an Eagle|Steve Miller Band|3|Rock|Pop Rock
+91|1973|Goodbye Yellow Brick Road|Elton John|3|Rock|Pop Rock, Classic Rock
+15|1967|Are You Experienced|The Jimi Hendrix Experience|2|Rock, Blues|Blues Rock, Psychedelic Rock
+117|1970|Layla and Other Assorted Love Songs|Derek and the Dominos|1|Rock|Blues Rock
+368|1972|Eagles|Eagles|2|Rock|Country Rock, Classic Rock
+94|1984|40 Greatest Hits|Hank Williams|3|Folk, World, Country|Country
+54|1991|The Birth of Soul|Ray Charles|1|Jazz, Funk / Soul|Rhythm & Blues, Big Band, Soul, Soul-Jazz
+396|1973|For Your Pleasure|Roxy Music|2|Rock|Art Rock, Avantgarde, Glam
+39|1963|Please Please Me|The Beatles|2|Rock|Beat, Rock & Roll
+268|1972|Paul Simon|Paul Simon|3|Rock|Folk Rock, Pop Rock
+344|1973|Berlin|Lou Reed|3|Rock|Hard Rock
+466|2002|A Rush of Blood to the Head|Coldplay|3|Rock|Alternative Rock, Pop Rock
+241|1984|Let It Be|The Replacements|3|Rock|Alternative Rock, Power Pop, Punk, Indie Rock
+220|1970|Look-Ka Py Py|The Meters|2|Funk / Soul|Bayou Funk, Soul, Funk
+483|1979|Entertainment!|Gang of Four|3|Rock|Post-Punk, New Wave
+58|1968|Beggars Banquet|The Rolling Stones|1|Rock, Funk / Soul, Pop|Blues Rock, Southern Rock, Classic Rock
+378|1995|(What's the Story) Morning Glory|Oasis|3|Rock, Pop|Brit Pop
+450|1973|For Everyman|Jackson Browne|3|Rock|Pop Rock, Classic Rock
+53|1964|Meet The Beatles!|The Beatles|3|Rock|Beat, Rock & Roll
+371|2006|Whatever People Say I Am, That's What I'm Not|Arctic Monkeys|1|Rock|Indie Rock
+55|1968|Electric Ladyland|The Jimi Hendrix Experience|1|Rock, Blues|Electric Blues, Psychedelic Rock
+392|1970|Let It Be|The Beatles|3|Rock|Pop Rock
+243|1970|Black Sabbath|Black Sabbath|2|Rock|Blues Rock, Heavy Metal
+52|1975|Greatest Hits|Al Green|3|Funk / Soul|Soul
+323|1981|Ghost in the Machine|The Police|2|Rock, Pop|Alternative Rock, New Wave, Pop Rock
+429|1975|Another Green World|Brian Eno|3|Electronic|Experimental, Ambient
+191|1970|Fun House|The Stooges|3|Rock|Garage Rock, Punk
+436|2002|Sea Change|Beck|1|Rock|Alternative Rock, Post Rock
+259|1997|The Velvet Rope|Janet|3|Electronic, Funk / Soul, Pop|RnB/Swing, Downtempo
+7|1972|Exile on Main St.|The Rolling Stones|1|Rock|Blues Rock, Rock & Roll, Classic Rock
+181|1974|Natty Dread|Bob Marley & The Wailers|3|Reggae|Reggae, Roots Reggae
+494|2007|Oracular Spectacular|MGMT|3|Electronic, Rock, Pop|Synth-pop, Indie Rock
+96|1969|Tommy|The Who|3|Rock|Psychedelic Rock
+160|1971|Electric Warrior|T. Rex|1|Rock|Glam, Classic Rock
+118|2005|Late Registration|Kanye West|2|Hip Hop
+408|1989|I Do Not Want What I Haven't Got|Sinead O'Connor|2|Rock, Funk / Soul, Blues|Blues Rock, Rhythm & Blues, Soul
+424|2002|The Rising|Bruce Springsteen|1|Rock|Folk Rock, Classic Rock
+285|1972|Music of My Mind|Stevie Wonder|2|Funk / Soul|Soul-Jazz, Soul
+25|1963|Live at the Apollo, 1962|James Brown|1|Funk / Soul|Rhythm & Blues, Soul
+453|1987|Strictly Business|EPMD|2|Hip Hop
+126|1973|Catch a Fire|The Wailers|3|Reggae|Roots Reggae
+314|1998|The Miseducation of Lauryn Hill|Lauryn Hill|2|Hip Hop|RnB/Swing, Conscious
+460|1994|Live Through This|Hole|3|Rock|Grunge
+101|1955|In the Wee Small Hours|Frank Sinatra|3|Jazz, Pop|Big Band, Ballad
+59|1976|Chronicle: The 20 Greatest Hits|Creedence Clearwater Revival|3|Rock
+93|1987|Sign O the Times|Prince|2|Rock, Reggae|Ska, Reggae-Pop
+5|1965|Rubber Soul|The Beatles|3|Rock, Pop|Pop Rock
+133|1973|The Wild, the Innocent & the E Street Shuffle|Bruce Springsteen|3|Rock
+370|1973|Mott|Mott the Hoople|3|Rock|Classic Rock
+440|1985|Rum Sodomy & the Lash|The Pogues|1|Rock, Folk, World, Country|Folk Rock, Celtic, Punk
+20|1982|Thriller|Michael Jackson|3|Funk / Soul, Pop|Disco
+312|1988|Nothing's Shocking|Jane's Addiction|3|Rock|Alternative Rock
+458|1970|Tumbleweed Connection|Elton John|3|Rock, Folk, World, Country|Soft Rock, Country Rock
+311|1994|The Sun Records Collection|Various|2|Rock, Funk / Soul, Blues, Pop, Folk, World, Country|Country Blues, Rock & Roll, Rockabilly
+111|1995|The Bends|Radiohead|3|Rock|Alternative Rock
+481|2000|Voodoo|D'Angelo|3|Hip Hop, Funk / Soul|Soul, Funk, Neo Soul
+360|1979|Singles Going Steady|Buzzcocks|1|Rock|Punk
+279|1973|Aladdin Sane|David Bowie|3|Rock|Glam
+457|2005|Z|My Morning Jacket|3|Rock|Alternative Rock
+134|1994|Ready to Die|The Notorious B.I.G.|3|Hip Hop|Thug Rap
+449|1978|Third/Sister Lovers|Big Star|2|Rock|Lo-Fi, Indie Rock
+176|1976|Rocks|Aerosmith|3|Rock|Hard Rock, Classic Rock
+205|1968|Wheels of Fire|Cream|3|Rock, Blues|Blues Rock, Psychedelic Rock, Classic Rock
+421|1990|The Best of the Girl Groups, Volume 1|Various Artists|3|Rock, Pop|Pop Rock, Vocal
+389|1989|The End of the Innocence|Don Henley|2|Rock|Pop Rock
+499|1971|Live in Cook County Jail|B.B. King|3|Blues|Electric Blues
+295|1970|Songs of Love and Hate|Leonard Cohen|3|Folk, World, Country|Folk Rock, Folk, Ballad
+346|1989|3 Feet High and Rising|De La Soul|1|Hip Hop
+393|2007|Kala|M.I.A.|3|Electronic, Hip Hop, Reggae, Pop|Grime, Bollywood, Hip Hop, Dancehall
+476|1997|Life After Death|The Notorious B.I.G.|1|Hip Hop
+431|2000|Stories From the City, Stories From the Sea|PJ Harvey|3|Rock|Indie Rock
+204|2006|Modern Times|Bob Dylan|3|Rock|Blues Rock, Folk Rock
+367|1998|Ray of Light|Madonna|1|Electronic, Pop|House, Techno, Downtempo, Vocal, Ambient
+375|1974|Late for the Sky|Jackson Browne|2|Rock|Pop Rock
+121|1969|Stand!|Sly & The Family Stone|2|Funk / Soul|Funk, Psychedelic, Disco
+114|1967|Disraeli Gears|Cream|3|Rock|Psychedelic Rock, Blues Rock
+227|1989|Doolittle|Pixies|3|Rock|Indie Rock
+272|1997|Dig Me Out|Sleater Kinney|2|Rock|Indie Rock
+400|1995|Anthology: The Best of The Temptations|The Temptations|2|Electronic, Funk / Soul|Soul, Disco
+300|1971|Master of Reality|Black Sabbath|3|Rock|Hard Rock, Heavy Metal
+79|1969|Led Zeppelin II|Led Zeppelin|3|Rock|Blues Rock, Classic Rock, Hard Rock
+284|1978|The Cars|The Cars|3|Electronic, Rock|New Wave, Pop Rock, Synth-pop
+24|1973|Innervisions|Stevie Wonder|2|Funk / Soul|Soul
+147|1970|Deja vu|Crosby, Stills, Nash & Young|3|Rock|Classic Rock
+73|1975|Physical Graffiti|Led Zeppelin|3|Rock|Classic Rock
+27|1987|The Joshua Tree|U2|2|Rock|Alternative Rock, Pop Rock
+270|1978|Some Girls|The Rolling Stones|3|Rock|Blues Rock, Rock & Roll, Classic Rock, Disco
+95|1970|Bitches Brew|Miles Davis|2|Jazz|Fusion
+28|1971|Who's Next|The Who|2|Rock|Hard Rock, Mod, Prog Rock, Psychedelic Rock
+163|1982|1999|Prince|1|Funk / Soul, Pop
+45|1969|The Band (The Brown Album)|The Band|3|Classical, Stage & Screen|Soundtrack, Modern Classical, Contemporary, Score
+36|1971|Tapestry|Carole King|3|Rock, Pop|Folk Rock, Soft Rock
+467|1987|Tunnel of Love|Bruce Springsteen|2|Rock
+99|1971|There's a Riot Goin' On|Sly & The Family Stone|3|Funk / Soul|Rhythm & Blues, Funk
+104|1970|Sweet Baby James|James Taylor|3|Rock|Folk Rock, Acoustic, Soft Rock
+26|1977|Rumours|Fleetwood Mac|2|Rock|Pop Rock
+350|1966|Roger the Engineer|The Yardbirds|3|Rock, Blues|Blues Rock, Pop Rock
+271|1965|The Beach Boys Today!|The Beach Boys|1|Rock|Pop Rock, Psychedelic Rock
+417|1980|Boy|U2|2|Rock|New Wave, Pop Rock
+165|1973|Let's Get It On|Marvin Gaye|2|Funk / Soul|Soul
+472|1987|Faith|George Michael|2|Electronic, Rock, Funk / Soul, Blues, Pop|Downtempo, Soft Rock, Pop Rock, Synth-pop
+190|1969|From Elvis in Memphis|Elvis Presley|3|Rock, Funk / Soul, Folk, World, Country|Country, Soul
+90|1972|Talking Book|Stevie Wonder|3|Funk / Soul|Soul, Funk
+242|1984|Run D.M.C.|Run D.M.C.|2|Hip Hop
+419|1994|Dummy|Portishead|3|Electronic|Trip Hop, Downtempo
+249|1992|Automatic for the People|R.E.M.|3|Rock|Alternative Rock
+18|1975|Born to Run|Bruce Springsteen|3|Rock|Pop Rock
+14|1969|Abbey Road|The Beatles|3|Rock|Psychedelic Rock, Classic Rock, Pop Rock
+81|1977|The Clash|The Clash|2|Rock|Punk
+333|1981|Wild Gift|X|3|Rock|Rock & Roll, Punk
+110|1970|Loaded|The Velvet Underground|3|Rock|Art Rock, Classic Rock
+157|1980|Closer|Joy Division|2|Rock|Post-Punk, New Wave
+66|1970|Moondance|Van Morrison|1|Jazz, Rock, Funk / Soul, Folk, World, Country|Folk Rock, Rhythm & Blues, Classic Rock, Contemporary Jazz
+13|1967|The Velvet Underground & Nico|The Velvet Underground|2|Rock|Garage Rock, Art Rock, Experimental
+175|1970|Close to You|Carpenters|2|Rock, Pop|Pop Rock, Vocal
+152|1979|The B 52's / Play Loud|The B 52's|3|Electronic, Rock, Pop|New Wave, Punk, Mod
+264|1970|Workingman's Dead|Grateful Dead|2|Rock|Folk Rock, Country Rock, Classic Rock
+487|1983|She's So Unusual|Cyndi Lauper|3|Electronic, Rock|Pop Rock, Synth-pop
+234|1968|Bookends|Simon & Garfunkel|3|Rock|Folk Rock, Classic Rock
+42|1967|The Doors|The Doors|2|Rock|Psychedelic Rock
+462|1987|Document|R.E.M.|3|Rock
+374|1975|Siren|Roxy Music|3|Rock|Art Rock, Pop Rock, Glam
+377|1991|The Ultimate Collection: 1948-1990|John Lee Hooker|3|Blues|Country Blues, Electric Blues, Chicago Blues, Jump Blues
+315|1979|Damn the Torpedoes|Tom Petty and the Heartbreakers|2|Rock|Soft Rock, Hard Rock, Pop Rock
+319|1973|Burnin'|The Wailers|3|Reggae|Reggae
+403|1973|(pronounced 'leh-'nerd 'skin-'nerd)|Lynyrd Skynyrd|2|Rock|Blues Rock, Hard Rock, Southern Rock
+427|2002|Sleepless|Peter Wolf|3|Rock, Blues, Pop|Blues Rock, Pop Rock, Ballad
+109|1966|Aftermath|The Rolling Stones|3|Rock|Blues Rock, Pop Rock
+469|1996|The Score|Fugees|3|Hip Hop|Pop Rap, Conscious
+448|1983|Synchronicity|The Police|3|Rock, Pop|New Wave, Pop Rock
+49|1971|At Fillmore East|The Allman Brothers Band|3|Rock, Blues|Blues Rock
+372|1979|Reggatta de Blanc|The Police|3|Rock, Pop|New Wave, Pop Rock
+297|1968|We're Only in It for the Money|The Mothers of Invention|2|Electronic, Rock|Modern Classical, Avantgarde, Psychedelic Rock, Experimental, Parody
+492|1983|Touch|Eurythmics|1|Electronic, Pop|New Wave, Synth-pop
+414|1981|Beauty and the Beat|The Go Go's|2|Rock|Pop Rock
+275|1999|The Slim Shady LP|Eminem|1|Hip Hop
+452|1971|John Prine|John Prine|1|Folk, World, Country|Country, Folk
+105|1962|Modern Sounds in Country and Western Music|Ray Charles|3|Funk / Soul, Folk, World, Country|Country, Rhythm & Blues
+255|1991|Metallica (The Black Album)|Metallica|3|Rock|Heavy Metal
+135|1992|Slanted and Enchanted|Pavement|3|Rock|Alternative Rock
+352|1985|Brothers in Arms|Dire Straits|3|Rock|AOR, Classic Rock
+65|1991|Back to Mono (1958-1969)|Phil Spector|3|Rock, Funk / Soul, Pop|Doo Wop, Pop Rock, Ballad, Rhythm & Blues
+60|1969|Trout Mask Replica|Captain Beefheart & His Magic Band|2|Rock, Blues|Dialogue, Field Recording, Avantgarde, Electric Blues, Psychedelic Rock, Experimental
+296|1985|Meat Is Murder|The Smiths|3|Rock|Alternative Rock, Indie Rock
+342|1990|Violator|Depeche Mode|3|Electronic|Synth-pop
+484|1972|All the Young Dudes|Mott the Hoople|3|Rock|Classic Rock, Glam
+179|2001|The Definitive Collection|ABBA|3|Electronic, Pop|Europop, Synth-pop, Disco
+402|1994|Illmatic|Nas|2|Hip Hop
+399|1985|Rain Dogs|Tom Waits|3|Rock, Blues|Blues Rock
+304|1994|Grace|Jeff Buckley|3|Rock|Alternative Rock, Folk Rock
+75|1991|Star Time|James Brown|3|Funk / Soul|Soul, Funk, Disco
+235|2000|The Ultimate Collection|Patsy Cline|3|Folk, World, Country
+139|1974|Rejuvenation|The Meters|2|Funk / Soul|Bayou Funk, Soul
+88|1968|At Folsom Prison|Johnny Cash|3|Folk, World, Country|Country
+184|1990|The Immaculate Collection|Madonna|3|Electronic, Pop|Synth-pop
+41|1977|Never Mind the Bollocks Here's the Sex Pistols|Sex Pistols|1|Rock|Punk
+257|1985|Whitney Houston|Whitney Houston|3|Funk / Soul, Pop|Synth-pop, Rhythm & Blues
+474|2001|Proxima estacion: Esperanza|Manu Chao|3|Rock, Reggae, Latin|Folk Rock, Reggae, Reggae-Pop
+211|1975|Wish You Were Here|Pink Floyd|3|Rock|Classic Rock, Prog Rock
+307|1964|A Hard Day's Night|The Beatles|3|Rock, Stage & Screen|Soundtrack, Beat, Pop Rock
+189|1969|Happy Trails|Quicksilver Messenger Service|3|Rock|Acid Rock, Psychedelic Rock
+162|1997|OK Computer|Radiohead|2|Electronic, Rock|Alternative Rock
+188|1967|Buffalo Springfield Again|Buffalo Springfield|3|Rock, Pop|Country Rock
+37|1976|Hotel California|Eagles|3|Rock|Classic Rock
+84|1967|I Never Loved a Man the Way I Love You|Aretha Franklin|2|Funk / Soul|Soul
+413|1984|Double Nickels on the Dime|Minutemen|3|Rock|Alternative Rock, Hardcore, Punk
+366|1994|American Recordings|Johnny Cash|2|Folk, World, Country|Country, Gospel, Folk
+201|1994|The Downward Spiral|Nine Inch Nails|3|Electronic, Rock|Industrial
+178|1992|The Anthology: 1961-1977|Curtis Mayfield and The Impressions|3|Funk / Soul|Rhythm & Blues, Soul, Funk
+64|1971|Sticky Fingers|The Rolling Stones|2|Rock|Classic Rock
+30|1971|Blue|Joni Mitchell|3|Pop|Acoustic, Ballad, Folk
+404|1972|Dr. John's Gumbo|Dr. John|3|Funk / Soul|Bayou Funk, Funk, Rhythm & Blues
+221|1991|Loveless|My Bloody Valentine|2|Rock|Alternative Rock, Shoegaze
+170|1970|Live at Leeds|The Who|3|Rock|Classic Rock, Blues Rock, Hard Rock
+10|1968|The Beatles (The White Album)|The Beatles|3|Rock|Rock & Roll, Pop Rock, Psychedelic Rock, Experimental
+161|1968|The Dock of the Bay|Otis Redding|1|Funk / Soul|Rhythm & Blues, Soul
+397|1991|Blue Lines|Massive Attack|1|Electronic, Reggae|Dub, Downtempo
+239|1989|Like a Prayer|Madonna|3|Electronic, Pop|Synth-pop
+428|1978|Outlandos d'Amour|The Police|3|Rock|Alternative Rock, New Wave, Punk
+331|1965|Help!|The Beatles|3|Rock, Stage & Screen|Beat, Soundtrack, Pop Rock
+231|1975|A Night at the Opera|Queen|2|Rock|Hard Rock, Pop Rock, Prog Rock
+149|1969|Santana|Santana|3|Rock, Latin, Funk / Soul|Afro-Cuban, Psychedelic Rock
+245|1993|All Killer No Filler! The Jerry Lee Lewis Anthology|Jerry Lee Lewis|3|Rock, Blues, Folk, World, Country|Country Blues, Rock & Roll, Rhythm & Blues
+313|1994|MTV Unplugged in New York|Nirvana|3|Rock|Folk Rock, Acoustic, Grunge
+141|1965|Live at the Regal|B.B. King|3|Blues|Chicago Blues
+217|1961|Two Steps From the Blues|Bobby Blue Bland|2|Funk / Soul, Blues|Rhythm & Blues, Soul
+382|1976|The Modern Lovers|The Modern Lovers|3|Rock|Art Rock, Indie Rock
+283|1974|Can't Get Enough|Barry White|3|Funk / Soul|Soul, Disco
+488|1985|New Day Rising|Husker Du|3|Rock|Alternative Rock, Hardcore, Punk
+415|1978|Van Halen|Van Halen|3|Rock|Hard Rock
+74|1970|After the Gold Rush|Neil Young|3|Rock|Rock & Roll, Country Rock
+103|1959|Giant Steps|John Coltrane|3|Jazz|Hard Bop
+198|1967|The Best of Little Walter|Little Walter|2|Blues|Chicago Blues
+321|1972|Pink Moon|Nick Drake|2|Rock, Folk, World, Country|Folk, Folk Rock, Acoustic
+136|1974|Greatest Hits|Elton John|3|Rock|Classic Rock
+437|2008|Tha Carter III|Lil Wayne|3|Hip Hop, Funk / Soul|RnB/Swing, Screw, Pop Rap, Thug Rap
+107|2003|Portrait of a Legend 1951-1964|Sam Cooke|3|Latin, Funk / Soul|Soul, Rhythm & Blues, Gospel, Cha-Cha
+158|1975|Captain Fantastic and the Brown Dirt Cowboy|Elton John|3|Rock|Pop Rock, Classic Rock
+491|1967|Born Under a Bad Sign|Albert King|3|Funk / Soul, Blues|Electric Blues, Rhythm & Blues, Soul
+137|1985|Tim|The Replacements|3|Rock|Indie Rock
+391|1976|The Pretender|Jackson Browne|3|Rock|Soft Rock, Pop Rock
+451|2006|Back to Black|Amy Winehouse|3|Funk / Soul, Pop|Soul
+278|1997|Anthology of American Folk Music|Various|1|Blues, Folk, World, Country|Cajun, Country, Field Recording, Gospel, Delta Blues, Folk
+356|1970|12 Songs|Randy Newman|3|Rock, Pop|Pop Rock, Vocal
+212|1994|Crooked Rain Crooked Rain|Pavement|2|Rock|Alternative Rock, Indie Rock
+69|1971|[Led Zeppelin IV]|Led Zeppelin|3|Rock|Hard Rock, Classic Rock, Blues Rock
+17|1991|Nevermind|Nirvana|3|Rock|Alternative Rock, Grunge
+120|1968|Sweetheart of the Rodeo|The Byrds|2|Rock|Folk Rock, Country Rock
+31|1965|Bringing It All Back Home|Bob Dylan|1|Rock, Folk, World, Country|Folk Rock, Folk
+347|1967|The Piper at the Gates of Dawn|Pink Floyd|2|Rock|Psychedelic Rock
+123|1986|Raising Hell|Run D.M.C.|2|Hip Hop
+250|1996|Reasonable Doubt|Jay Z|3|Hip Hop
+291|1977|Talking Heads: 77|Talking Heads|3|Rock|New Wave
+21|1982|The Great Twenty_Eight|Chuck Berry|3|Rock|Rock & Roll
+395|2007|Sound of Silver|LCD Soundsystem|3|Electronic, Rock|Leftfield, Alternative Rock, Electro, Disco
+349|2003|The Black Album|Jay Z|1|Hip Hop
+51|1970|Bridge Over Troubled Water|Simon & Garfunkel|3|Rock|Folk Rock, Classic Rock
+444|1972|The World Is a Ghetto|War|2|Funk / Soul|Funk
+223|1983|War|U2|1|Rock|Pop Rock
+411|1974|461 Ocean Boulevard|Eric Clapton|2|Rock|Blues Rock
+435|1993|In Utero|Nirvana|2|Rock|Grunge, Alternative Rock
+200|1979|Highway to Hell|AC/DC|2|Rock|Hard Rock
+495|1972|Give It Up|Bonnie Raitt|2|Rock|Blues Rock
+276|1975|Mothership Connection|Parliament|3|Funk / Soul|P.Funk, Funk
+113|1974|Court and Spark|Joni Mitchell|1|Rock|Soft Rock, Pop Rock
+260|1978|Stardust|Willie Nelson|3|Pop, Folk, World, Country|Vocal
+405|1974|Radio City|Big Star|3|Rock|Power Pop
+63|1991|Achtung Baby|U2|2|Electronic, Rock|Pop Rock, Synth-pop, Alternative Rock, Arena Rock
+40|1967|Forever Changes|Love|3|Rock|Folk Rock, Psychedelic Rock
+265|1959|The Genius of Ray Charles|Ray Charles|2|Jazz, Pop|Soul-Jazz, Big Band
+19|1968|Astral Weeks|Van Morrison|2|Jazz, Rock, Blues, Folk, World, Country|Acoustic, Classic Rock, Free Improvisation
+208|1970|Tea for the Tillerman|Cat Stevens|1|Rock, Stage & Screen|Folk Rock, Pop Rock
+238|1962|Howlin' Wolf|Howlin' Wolf|2|Blues
+97|1963|The Freewheelin' Bob Dylan|Bob Dylan|3|Folk, World, Country|Folk
+192|1969|The Gilded Palace of Sin|The Flying Burrito Brothers|1|Rock, Folk, World, Country|Country Rock
+180|1965|The Rolling Stones, Now!|The Rolling Stones|3|Rock, Blues, Pop|Pop Rock, Rhythm & Blues, Rock & Roll
+465|1999|69 Love Songs|The Magnetic Fields|3|Electronic, Rock|Synth-pop, Indie Rock
+308|1956|Songs for Swingin' Lovers!|Frank Sinatra|3|Jazz, Pop|Vocal, Easy Listening
+479|1971|Maggot Brain|Funkadelic|2|Rock, Funk / Soul|P.Funk, Psychedelic Rock
+463|1981|Heaven Up Here|Echo and The Bunnymen|2|Rock|New Wave, Indie Rock
+34|1968|Music From Big Pink|The Band|2|Rock|Folk Rock, Acoustic, Blues Rock
+380|1973|Funky Kingston|Toots & The Maytals|3|Reggae|Reggae Gospel, Reggae, Roots Reggae, Rocksteady
+489|1976|Destroyer|KISS|3|Rock|Hard Rock
+57|1976|Songs in the Key of Life|Stevie Wonder|2|Funk / Soul|Soul, Disco
+490|1973|Tres hombres|ZZ Top|3|Rock|Blues Rock, Classic Rock
+6|1971|What's Going On|Marvin Gaye|3|Funk / Soul|Soul
+354|1978|52nd Street|Billy Joel|3|Jazz, Rock, Pop|Pop Rock, Ballad, Latin Jazz
+86|1984|Born in the U.S.A.|Bruce Springsteen|3|Rock|Pop Rock
+477|1996|Down Every Road|Merle Haggard|2|Folk, World, Country|Country
+336|2007|In Rainbows|Radiohead|3|Electronic, Rock|Alternative Rock, Art Rock
+362|1993|Siamese Dream|The Smashing Pumpkins|3|Rock|Alternative Rock
+385|2001|Love and Theft|Bob Dylan|3|Rock|Folk Rock, Blues Rock
+329|1986|In the Jungle Groove|James Brown|3|Funk / Soul|Soul, Funk
+294|1969|Kick Out the Jams|MC5|3|Rock|Garage Rock, Hard Rock, Punk, Blues Rock
+193|1994|Dookie|Green Day|1|Rock|Alternative Rock, Pop Punk, Punk
+251|1977|Low|David Bowie|3|Electronic, Rock|Art Rock, Ambient, Experimental
+455|1984|How Will the Wolf Survive?|Los Lobos|2|Rock, Latin|Blues Rock
+72|1972|Superfly|Curtis Mayfield|1|Funk / Soul, Stage & Screen|Soundtrack, Soul
+345|1984|Stop Making Sense|Talking Heads|3|Rock, Funk / Soul|Funk, Indie Rock, New Wave
+106|1977|Rocket to Russia|Ramones|2|Rock|Rock & Roll, Punk
+301|1971|Coat of Many Colors|Dolly Parton|3|Folk, World, Country|Country
+122|1972|The Harder They Come|Various Artists|1|Reggae, Pop, Folk, World, Country, Stage & Screen|Reggae, Roots Reggae, Rocksteady, Contemporary, Soundtrack
+267|1973|Quadrophenia|The Who|3|Rock|Hard Rock, Classic Rock, Mod
+361|2000|Stankonia|OutKast|1|Hip Hop, Funk / Soul|Gangsta, P.Funk, Crunk, Conscious
+426|1978|Cheap Trick at Budokan|Cheap Trick|1|Rock|Power Pop, Pop Rock, Arena Rock, Hard Rock
+281|1994|My Life|Mary J. Blige|3|Hip Hop|RnB/Swing
+33|1976|Ramones|Ramones|2|Rock|Rock & Roll, Punk
+248|1959|The Shape of Jazz to Come|Ornette Coleman|3|Jazz|Free Jazz
+422|1963|Presenting the Fabulous Ronettes Featuring Veronica|The Ronettes|3|Rock, Pop|Rock & Roll, Vocal
+61|1970|Greatest Hits|Sly & The Family Stone|3|Funk / Soul|Rhythm & Blues, Funk
+287|1980|Los Angeles|X|3|Rock|Punk, Rock & Roll
+381|2011|The Smile Sessions|The Beach Boys|2|Rock|Pop Rock, Psychedelic Rock
+432|1973|Here Come the Warm Jets|Brian Eno|3|Rock|Art Rock, Glam
+47|1965|A Love Supreme|John Coltrane|3|Jazz|Free Jazz, Hard Bop, Modal
+289|1967|Something Else by The Kinks|The Kinks|3|Rock|Pop Rock, Psychedelic Rock, Mod
+128|1973|Raw Power|Iggy and The Stooges|2|Rock|Garage Rock, Hard Rock, Punk
+254|1966|Complete & Unbelievable: The Otis Redding Dictionary of Soul|Otis Redding|1|Funk / Soul|Soul
+341|1999|Play|Moby|3|Electronic|Breakbeat, Leftfield, Downtempo
+258|1968|The Kinks Are The Village Green Preservation Society|The Kinks|3|Rock|Psychedelic Rock, Pop Rock
+485|1994|Vitalogy|Pearl Jam|3|Rock|Alternative Rock, Hard Rock
+168|1977|My Aim Is True|Elvis Costello|2|Rock|New Wave, Pop Rock
+213|1981|Tattoo You|The Rolling Stones|2|Rock|Classic Rock
+318|1972|Back Stabbers|The O'Jays|3|Funk / Soul|Soul
+358|1960|Sketches of Spain|Miles Davis|3|Jazz|Modal
+282|1964|Folk Singer|Muddy Waters|3|Blues|Delta Blues
+148|1973|Houses of the Holy|Led Zeppelin|3|Rock|Classic Rock
+146|1967|Surrealistic Pillow|Jefferson Airplane|1|Rock|Folk Rock, Psychedelic Rock
+320|2001|Amnesiac|Radiohead|3|Electronic, Rock|Alternative Rock, Experimental
+214|1991|Proud Mary: The Best of Ike and Tina Turner|Ike & Tina Turner|3|Funk / Soul|Rhythm & Blues, Bayou Funk, Soul
+480|1995|Only Built 4 Cuban Linx|Raekwon|1|Hip Hop
+407|1980|Sandinista!|The Clash|3|Rock, Reggae|Rock & Roll, Dub, Punk
+82|1972|Harvest|Neil Young|3|Rock|Folk Rock, Country Rock, Classic Rock
+124|1967|Moby Grape|Moby Grape|3|Rock|Folk Rock, Psychedelic Rock
+247|1969|Live/Dead|The Grateful Dead|3|Rock|Folk Rock, Country Rock, Psychedelic Rock, Experimental
+8|1979|London Calling|The Clash|3|Rock|Punk, New Wave
+473|1984|The Smiths|The Smiths|3|Rock|Indie Rock
+324|1976|Station to Station|David Bowie|2|Rock, Funk / Soul|Classic Rock, Soul, Funk, Art Rock
+410|1997|Time Out of Mind|Bob Dylan|3|Rock, Blues|Blues Rock
+423|2001|Anthology|Diana Ross & The Supremes|3|Electronic, Funk / Soul|Pop Rock, Soul, Disco
+210|1969|Everybody Knows This Is Nowhere|Neil Young & Crazy Horse|3|Rock|Folk Rock, Country Rock, Classic Rock
+343|1977|Bat Out of Hell|Meat Loaf|2|Rock|Pop Rock
+286|1972|I'm Still in Love With You|Al Green|2|Funk / Soul|Rhythm & Blues, Soul
+274|1974|Nightbirds|LaBelle|1|Funk / Soul|Funk, Disco
+172|1971|Every Picture Tells a Story|Rod Stewart|3|Rock|Pop Rock
+326|1989|Disintegration|The Cure|3|Electronic, Rock|New Wave, Alternative Rock
+334|1979|Squeezing Out Sparks|Graham Parker & The Rumour|3|Rock, Blues
+302|1990|Fear of a Black Planet|Public Enemy|3|Hip Hop|Conscious
+202|1966|Parsley, Sage, Rosemary and Thyme|Simon & Garfunkel|3|Rock, Pop, Folk, World, Country|Folk Rock, Pop Rock
+471|1974|I Want to See the Bright Lights Tonight|Richard & Linda Thompson|3|Rock|Classic Rock, Folk Rock
+322|1972|Sail Away|Randy Newman|2|Rock, Pop
+222|1972|New Orleans Piano|Professor Longhair|2|Funk / Soul, Blues|Piano Blues
+68|1979|Off the Wall|Michael Jackson|3|Funk / Soul, Pop|Disco, Soul, Ballad
+277|1989|Rhythm Nation 1814|Janet Jackson|3|Electronic, Hip Hop, Pop|RnB/Swing, Downtempo, Synth-pop
+433|1970|All Things Must Pass|George Harrison|2|Rock|Pop Rock
+187|1986|So|Peter Gabriel|2|Electronic, Rock, Funk / Soul, Pop|Art Rock, Pop Rock, Synth-pop, Funk
+206|1980|Dirty Mind|Prince|3|Funk / Soul
+454|1971|Love It to Death|Alice Cooper|1|Rock|Classic Rock
+3|1966|Revolver|The Beatles|3|Rock|Psychedelic Rock, Pop Rock
+186|1973|Fresh|Sly & The Family Stone|3|Funk / Soul|Rhythm & Blues, Funk
+129|1980|Remain in Light|Talking Heads|2|Electronic, Rock|New Wave, Art Rock, Funk
+11|1976|The Sun Sessions|Elvis Presley|3|Rock|Rock & Roll
+443|1977|In Color|Cheap Trick|3|Rock|Power Pop, Pop Rock, Hard Rock
+263|1988|Tracy Chapman|Tracy Chapman|3|Rock
+209|1991|Ten|Pearl Jam|2|Rock|Grunge
+2|1966|Pet Sounds|The Beach Boys|2|Rock|Pop Rock, Psychedelic Rock
+303|1967|John Wesley Harding|Bob Dylan|3|Rock|Folk Rock, Country Rock
+475|1979|Armed Forces|Elvis Costello & The Attractions|3|Rock|New Wave, Pop Rock
+173|1972|Something/Anything|Todd Rundgren|3|Rock|Power Pop, Pop Rock, Prog Rock
+412|1977|Pink Flag|Wire|3|Rock|Punk
+77|1980|Back in Black|AC/DC|2|Rock|Hard Rock
+12|1959|Kind of Blue|Miles Davis|3|Jazz|Modal
+171|1968|The Notorious Byrd Brothers|The Byrds|3|Rock|Psychedelic Rock, Folk Rock, Country Rock, Pop Rock
+298|2003|The College Dropout|Kanye West|3|Hip Hop|Pop Rap, Conscious, Contemporary R&B
+154|1958|Moanin' in the Moonlight|Howlin' Wolf|3|Blues|Chicago Blues
+98|1978|This Year's Model|Elvis Costello|3|Rock|New Wave
+373|1969|Volunteers|Jefferson Airplane|3|Rock|Psychedelic Rock, Folk Rock, Country Rock, Honky Tonk
+420|1957|The Chirping Crickets|The Crickets|2|Rock, Pop|Rockabilly, Rock & Roll
+119|1960|At Last!|Etta James|3|Funk / Soul, Blues|Rhythm & Blues, Soul
+447|1964|Getz / Gilberto|Stan Getz / Joao Gilberto featuring Antonio Carlos Jobim|2|Jazz|Bossa Nova, Latin Jazz
+194|1972|Transformer|Lou Reed|3|Rock|Glam
+169|1977|Exodus|Bob Marley & The Wailers|3|Reggae|Reggae, Roots Reggae
+151|2004|Funeral|Arcade Fire|3|Rock|Indie Rock
+316|1969|The Velvet Underground|The Velvet Underground|3|Rock|Garage Rock, Art Rock, Experimental
+353|2010|My Beautiful Dark Twisted Fantasy|Kanye West|1|Hip Hop
+409|1967|Strange Days|The Doors|3|Rock|Psychedelic Rock
+456|1978|Here, My Dear|Marvin Gaye|2|Funk / Soul|Soul
+1|1967|Sgt. Pepper's Lonely Hearts Club Band|The Beatles|3|Rock|Rock & Roll, Psychedelic Rock
+355|1965|Having a Rave Up|The Yardbirds|2|Rock|Blues Rock, Psychedelic Rock
+337|1971|Aqualung|Jethro Tull|1|Rock|Classic Rock, Prog Rock
+144|1988|Straight Outta Compton|N.W.A|1|Hip Hop|Gangsta
+425|1974|Grievous Angel|Gram Parsons|3|Rock, Folk, World, Country|Country Rock, Honky Tonk
+216|1986|Bo Diddley / Go Bo Diddley|Bo Diddley|3|Rock, Blues|Rhythm & Blues, Rock & Roll
+327|1993|Exile in Guyville|Liz Phair|3|Rock|Lo-Fi, Indie Rock
+256|1977|Trans Europa Express|Kraftwerk|2|Electronic|Electro
+150|1978|Darkness on the Edge of Town|Bruce Springsteen|3|Rock|Pop Rock
+224|1999|The Neil Diamond Collection|Neil Diamond|2|Rock, Pop|Soft Rock, Ballad
+174|1976|Desire|Bob Dylan|2|Rock|Folk Rock
+406|1993|Rid of Me|PJ Harvey|3|Rock|Indie Rock
+500|1998|Aquemini|OutKast|3|Hip Hop|Reggae, Gangsta, Soul, Conscious
+22|1990|The Complete Recordings|Robert Johnson|2|Blues|Delta Blues
+85|1968|Lady Soul|Aretha Franklin|3|Funk / Soul|Soul
+43|1973|The Dark Side of the Moon|Pink Floyd|2|Rock|Prog Rock
+240|1972|Can't Buy a Thrill|Steely Dan|1|Rock|Classic Rock
+470|1985|Radio|L.L. Cool J|3|Hip Hop
+199|2001|Is This It|The Strokes|2|Rock|Indie Rock
+230|1989|Nick of Time|Bonnie Raitt|3|Rock, Pop|Blues Rock, Pop Rock
+164|2002|The Very Best of Linda Ronstadt|Linda Ronstadt|3|Rock, Pop|Soft Rock, Pop Rock
+225|2004|American Idiot|Green Day|3|Rock|Pop Rock, Punk
+62|1987|Appetite for Destruction|Guns N' Roses|3|Rock|Hard Rock, Heavy Metal
+325|1977|Slowhand|Eric Clapton|3|Rock
+46|1984|Legend: The Best of Bob Marley and The Wailers|Bob Marley & The Wailers|3|Reggae|Reggae, Roots Reggae
+80|1971|Imagine|John Lennon|3|Rock|Pop Rock
+493|2002|Yankee Hotel Foxtrot|Wilco|3|Rock|Alternative Rock
+127|1967|Younger Than Yesterday|The Byrds|2|Rock|Folk Rock, Psychedelic Rock
+266|1968|Child Is Father to the Man|Blood, Sweat & Tears|2|Rock|Blues Rock, Jazz-Rock, Classic Rock
+376|1995|Post|Bjork|2|Electronic|Breakbeat, IDM, Electro
+328|1988|Daydream Nation|Sonic Youth|3|Rock|Alternative Rock, Indie Rock
+496|1969|Boz Scaggs|Boz Scaggs|2|Rock|Pop Rock
+67|2000|Kid A|Radiohead|3|Electronic, Rock|Alternative Rock, IDM, Experimental
+76|1984|Purple Rain|Prince and the Revolution|2|Electronic, Rock, Funk / Soul, Stage & Screen|Pop Rock, Funk, Soundtrack, Synth-pop
+38|2001|The Anthology|Muddy Waters|3|Folk, World, Country|Folk
+78|1965|Otis Blue: Otis Redding Sings Soul|Otis Redding|2|Funk / Soul|Soul
+338|1968|Cheap Thrills|Big Brother & the Holding Company|3|Rock|Folk Rock, Blues Rock, Psychedelic Rock
+384|1966|A Quick One|The Who|3|Rock|Mod, Beat, Psychedelic Rock
+130|1977|Marquee Moon|Television|3|Rock|New Wave, Punk
+145|1977|Aja|Steely Dan|3|Jazz, Rock|Jazz-Rock, Classic Rock
+92|1978|20 Golden Greats|Buddy Holly|3|Rock|Rock & Roll
+486|1975|That's the Way of the World|Earth, Wind & Fire|2|Funk / Soul|Soul, Funk, Disco
+442|1978|Q: Are We Not Men? A: We Are Devo!|DEVO|3|Rock|New Wave
+261|1970|American Beauty|Grateful Dead|1|Rock|Folk Rock
+497|2001|White Blood Cells|The White Stripes|2|Rock|Indie Rock, Alternative Rock, Blues Rock, Garage Rock
+233|1965|Mr. Tambourine Man|The Byrds|3|Rock|Folk Rock, Garage Rock, Pop Rock
+482|1986|Guitar Town|Steve Earle|3|Rock, Folk, World, Country|Country, Honky Tonk
+16|1975|Blood on the Tracks|Bob Dylan|3|Rock|Folk Rock, Acoustic, Ballad
+182|1975|Fleetwood Mac|Fleetwood Mac|2|Rock, Pop|Folk Rock, Pop Rock
+498|1989|The Stone Roses|The Stone Roses|3|Rock|Indie Rock
+310|1991|Blood Sugar Sex Magik|Red Hot Chili Peppers|3|Rock|Alternative Rock, Funk Metal
+215|1973|New York Dolls|New York Dolls|3|Rock|Glam
+153|1991|The Low End Theory|A Tribe Called Quest|3|Hip Hop|Conscious
+229|1975|Toys in the Attic|Aerosmith|2|Rock|Hard Rock, Blues Rock
+387|1993|Enter the Wu-Tang: 36 Chambers|Wu Tang Clan|3|Hip Hop|Gangsta
+232|1972|The Kink Kronikles|The Kinks|3|Rock|Rock & Roll, Pop Rock
+143|1968|Gris-Gris|Dr. John, the Night Tripper|3|Jazz, Rock, Funk / Soul, Blues|Soul-Jazz, Louisiana Blues, Fusion, Bayou Funk
+48|1988|It Takes a Nation of Millions to Hold Us Back|Public Enemy|3|Hip Hop|Conscious
+351|1979|Rust Never Sleeps|Neil Young & Crazy Horse|3|Rock|Hard Rock, Arena Rock
+131|1970|Paranoid|Black Sabbath|3|Rock|Hard Rock, Heavy Metal
+70|1977|The Stranger|Billy Joel|3|Rock|Pop Rock
+365|1992|Rage Against the Machine|Rage Against the Machine|3|Hip Hop, Rock|Funk Metal
+244|2000|The Marshall Mathers LP|Eminem|2|Hip Hop|Pop Rap, Hardcore Hip-Hop, Horrorcore
+196|1998|Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968|Various Artists|3|Rock|Garage Rock, Psychedelic Rock
+478|2002|All Time Greatest Hits|Loretta Lynn|3|Folk, World, Country|Country
+56|1956|Elvis Presley|Elvis Presley|3|Rock|Rock & Roll, Rockabilly
+218|1986|The Queen Is Dead|The Smiths|2|Rock, Pop|Indie Rock
+156|1989|Paul's Boutique|Beastie Boys|2|Hip Hop, Rock, Funk / Soul|Alternative Rock, Pop Rap, Psychedelic
+71|1986|Graceland|Paul Simon|3|Jazz, Rock, Funk / Soul, Pop, Folk, World, Country|Folk Rock, Pop Rock, African, Afrobeat, Zydeco, Funk, Rhythm & Blues
+142|1963|A Christmas Gift for You From Phil Spector|Phil Spector|2|Rock, Funk / Soul, Pop|Pop Rock
+100|1968|Odessey and Oracle|The Zombies|2|Rock|Psychedelic Rock
+369|1987|Louder Than Bombs|The Smiths|3|Rock|Alternative Rock, Indie Rock
+386|1974|Pretzel Logic|Steely Dan|2|Jazz, Rock|Jazz-Rock, Pop Rock, Classic Rock
+
